@@ -1,0 +1,9 @@
+Flask==2.3.2
+Flask-CORS==3.0.10
+Flask-SQLAlchemy==3.0.0
+Werkzeug==2.3.6
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+google-cloud-vision==3.0.2
+requests==2.31.0
+sqlite3==0.0.1
